@@ -1,5 +1,9 @@
-#Beauty{
+{  #Beauty
     width: 800px;
     margin: 00px auto;
     background-color= #"fff2cc";
 {
+<style>
+  div {
+    text-align: center;
+  }
