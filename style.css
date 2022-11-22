@@ -1,10 +1,12 @@
+<style>
  IMG.modelo {
     display: block;
     margin-left: auto;
     margin-right: auto }
 }
-{
-<style>
-  div {
-    text-align: center;
-  }
+P.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
+</style>
